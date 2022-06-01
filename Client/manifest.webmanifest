@@ -1,0 +1,31 @@
+{
+    "short_name": "Dev Chat",
+    "name": "Developer Communication Portal",
+    "start_url": ".",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "theme_color": "#3367D6",
+    "description": "Communication Chat App For South Side Tech Solutions, Development Teams",
+    "icons": [{
+            "src": "images/logo16.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        }, {
+            "src": "images/logo144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+
+        {
+            "src": "images/logo256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "images/logo512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+
+    ]
+}
